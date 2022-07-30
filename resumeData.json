@@ -1,0 +1,220 @@
+{
+  "main": {
+    "name": "Robert Yulisman",
+    "occupation": "Indonesian",
+    "description": "I had experience work as full stack developer for android and website using MERN Stack, and now, I’m looking for more experience that related to my skill and hobbies wich is Information System",
+    "image": "profilepic.png",
+    "bio": "Hello, My Nameis Robert, I was born at Ujung Batu, 10thof January 1992, now I am living at Padang Panjang, I had experience work as full stack developer for android and website using MERN Stack, and now, I’m looking for more experience that related to my skill and hobbies wich is Information System.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "email : desainku1092@gmail.com",
+    "phone": "whatssapp : +62878 9459 8739",
+    "address": {
+      "street": "jl st syahrir no 239, kelurahan silaing bawah",
+      "city": "Padang Panjang, Sumatera Barat",
+      "state": "Indonesia",
+      "zip": "27118"
+    },
+    "website": "https://robertyulisman.herokuapp.com/",
+    "resumedownload": "https://uc1a38b646fb2488700abd7a4b0e.dl.dropboxusercontent.com/cd/0/get/A8n_KdGoCk9DLcybpJBRI6UvZ0908MRGr4DS3xED7cAnDxY8GjPVf1bCbg1S6WI12Evoim9C-x_-MtyjoCDbMyXj3WdNs-3IS5-2s2Qrg3CwF24_IzrCZTLqe8wBDFseVPM/file#",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "http://facebook.com/robertyulisman",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com/robertyulisman",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "google-plus",
+        "url": "http://googleplus.com/robertyulisman",
+        "className": "fa fa-google-plus"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://id.linkedin.com/in/robert-yulisman-324071113",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/robertyulisman",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/robertyulisman",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "skype",
+        "url": "http://skype.com",
+        "className": "fa fa-skype"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "this is a short write-up of my skills to show off to employers",
+    "education": [
+      {
+        "school": "Batam State Polytechnic",
+        "degree": "Multimedia Networking",
+        "graduated": "2017",
+        "description": ""
+      },
+      {
+        "school": "Kansa Public Speaking Batam",
+        "degree": "Public Speaking",
+        "graduated": "2017",
+        "description": ""
+      },
+      {
+        "school": "Darussalam Gontor Ponorogo",
+        "degree": "Islmic Teacher Training College",
+        "graduated": "2010",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "SSD BATAM TECH SINGAPORE",
+        "title": "FRONT END DEVELOPER ",
+        "years": "August 2019 –Februari 2020",
+        "description": "Develope the App using React Native integrated with Back End Node Js Express."
+      },
+      {
+        "company": "FREELANCE ANDROID DEVELOPER",
+        "title": "ANDROID PUBLISHER",
+        "years": "2018 –2019",
+        "description": "Make some Android App and publish it on Google Play"
+      },
+      {
+        "company": "DESAINKU",
+        "title": "FREELANCE GRAPICH DESAINER",
+        "years": "2016 –2019",
+        "description": "Freelancer for grapich desain at Desainku on Social Media"
+      },
+      {
+        "company": "FREELANCE ANDROID DEVELOPER",
+        "title": "ANDROID PUBLISHER",
+        "years": "2018 –2019",
+        "description": "Make some Android App and publish it on Google Play"
+      },
+      {
+        "company": "DARUSSALAM PRINTING",
+        "title": "GRAPICH DESAINER",
+        "years": "2016 –2017",
+        "description": "One of owner for this advertising “Darussalam Printing"
+      },
+      {
+        "company": "PT KERATON BUANA INDONESIA",
+        "title": "GRAPICH DESAINER",
+        "years": "AUGUST 2015–June 2016",
+        "description": "Working as Designer at Keraton Print for a client"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "Adobe Photoshop",
+        "level": "75%"
+      },
+      {
+        "name": "Adobe XD",
+        "level": "75%"
+      },
+      {
+        "name": "Corel Draw",
+        "level": "80%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "React Native",
+        "level": "80%"
+      },
+      {
+        "name": "Android Studio",
+        "level": "60%"
+      },
+      {
+        "name": "CSS",
+        "level": "60%"
+      },
+      {
+        "name": "HTML5",
+        "level": "70%"
+      },
+      {
+        "name": "Node Js",
+        "level": "50%"
+      },
+      {
+        "name": "Javascript",
+        "level": "70%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "AMNESIA ( Aspirasi Masyarakat Indonesia )",
+        "category": "Aspirasi Masyarakat Indonesia",
+        "image": "amnesia.png",
+        "url": "https://play.google.com/store/apps/details?id=com.hutankuapps&hl=in"
+      },
+      {
+        "title": "Lapak Iwak",
+        "category": "Aplikasi Lapak Iwak",
+        "image": "lapakiwak.png",
+        "url": "https://play.google.com/store/apps/details?id=com.lapak_iwak&hl=in"
+      },
+      {
+        "title": "Aspirasi Banua",
+        "category": "Aspirasi Banua App",
+        "image": "aspirasibanua.png",
+        "url": ""
+      },
+      {
+        "title": "Rajaa Busana",
+        "category": "Rajaa Busana App",
+        "image": "rajaabusana.png",
+        "url": ""
+      },
+      {
+        "title": "Senusa Care",
+        "category": "Senusa Care App",
+        "image": "senusacare.png",
+        "url": ""
+      },
+      {
+        "title": "Pasar Amuntai",
+        "category": "Pasar Amuntai App",
+        "image": "pasaramuntai.png",
+        "url": ""
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
