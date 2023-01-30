@@ -4,17 +4,17 @@
     "occupation": "Indonesian",
     "description": "I had experience work as full stack developer for android and website using MERN Stack, and now, I’m looking for more experience that related to my skill and hobbies wich is Information System",
     "image": "profilepic.png",
-    "bio": "Hello, My Nameis Robert, I was born at Ujung Batu, 10thof January 1992, now I am living at Padang Panjang, I had experience work as full stack developer for android and website using MERN Stack, and now, I’m looking for more experience that related to my skill and hobbies wich is Information System.",
+    "bio": "Hello, My Name is Robert, I was born at Ujung Batu, 10th of January 1992, now I am living at Batam, I had experience work as full stack developer for android and website using MERN Stack, and now, I’m looking for more experience that related to my skill and hobbies wich is Information System.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "email : desainku1092@gmail.com",
-    "phone": "whatssapp : +62878 9459 8739",
+    "phone": "whatsapp : +62812 7107 6751",
     "address": {
-      "street": "jl st syahrir no 239, kelurahan silaing bawah",
-      "city": "Padang Panjang, Sumatera Barat",
+      "street": "Gg Melati 2 no 19 RT 002 RW 004, Kelurahan Tanjung Riau, Kecamatan Sekupang",
+      "city": "Batam, Kepulauan Riau",
       "state": "Indonesia",
-      "zip": "27118"
+      "zip": ""
     },
-    "website": "https://robertyulisman.herokuapp.com/",
+    "website": "https://robertyulisman.my.id/",
     "resumedownload": "https://uc1a38b646fb2488700abd7a4b0e.dl.dropboxusercontent.com/cd/0/get/A8n_KdGoCk9DLcybpJBRI6UvZ0908MRGr4DS3xED7cAnDxY8GjPVf1bCbg1S6WI12Evoim9C-x_-MtyjoCDbMyXj3WdNs-3IS5-2s2Qrg3CwF24_IzrCZTLqe8wBDFseVPM/file#",
     "social": [
       {
@@ -77,6 +77,18 @@
       }
     ],
     "work": [
+      {
+        "company": "ODEE COMPANY",
+        "title": "FULLSTACK DEVELOPER",
+        "years": "2021 - Now",
+        "description": "Develope the App using React Native integrated with Back End Node Js Express."
+      },
+      {
+        "company": "PT ASIA PROO TEKNOLOGI",
+        "title": "FULLSTACK DEVELOPER",
+        "years": "2021 – Now",
+        "description": "Develope the App using React Native (for Mobile App), React (for Web) integrated with Back End Node Js Express."
+      },
       {
         "company": "SSD BATAM TECH SINGAPORE",
         "title": "FRONT END DEVELOPER ",
